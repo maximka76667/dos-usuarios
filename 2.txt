@@ -1,0 +1,5 @@
+net localgroup /add G1
+net localgroup /add G2
+net localgroup /add G3
+net localgroup /add G4
+net localgroup /add G5

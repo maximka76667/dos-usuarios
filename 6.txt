@@ -1,0 +1,2 @@
+net localgroup /add JEFES_GROUP
+net localgroup JEFES_GROUP /add U01 U03 U05 U07 U09

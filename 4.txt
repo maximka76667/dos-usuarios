@@ -1,0 +1,17 @@
+G1
+net user U01 /times:l-v,9:00-13:00
+net user U02 /times:l-v,9:00-13:00
+G2
+net user U03 /times:l-v,9:00-13:00
+net user U04 /times:l-v,9:00-13:00
+
+G3
+net user U05 /times:l-v,15:00-20:00
+net user U06 /times:l-v,15:00-20:00
+G4
+net user U07 /times:l-v,15:00-20:00
+net user U08 /times:l-v,15:00-20:00
+
+G5
+net user U09 /times:s-do,9:00-20:00
+net user U10 /times:s-do,9:00-20:00

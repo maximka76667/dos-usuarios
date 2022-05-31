@@ -1,0 +1,5 @@
+net localgroup G1 /add U01 U02
+net localgroup G2 /add U03 U04
+net localgroup G3 /add U05 U06
+net localgroup G4 /add U07 U08
+net localgroup G5 /add U09 U10

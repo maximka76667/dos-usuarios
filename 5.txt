@@ -1,0 +1,24 @@
+-Crear script
+
+Notepad cuota.bat
+
+-BAT Script
+
+fsutil quota modify C: 0xffffffffffffffff %1 U01
+fsutil quota modify C: 0xffffffffffffffff %1 U02
+fsutil quota modify C: 0xffffffffffffffff %1 U03
+fsutil quota modify C: 0xffffffffffffffff %1 U04
+fsutil quota modify C: 0xffffffffffffffff %1 U05
+fsutil quota modify C: 0xffffffffffffffff %1 U06
+fsutil quota modify C: 0xffffffffffffffff %1 U07
+fsutil quota modify C: 0xffffffffffffffff %1 U08
+fsutil quota modify C: 0xffffffffffffffff %1 U09
+fsutil quota modify C: 0xffffffffffffffff %1 U10
+
+-Ejecutar script
+
+couta.bat 1000
+
+-Para comprobar
+
+fsutil quota query C:
